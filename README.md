@@ -1,4 +1,4 @@
-### Hi there, a software engine here! 👋
+### 👋 Hi there, a software engine here.
 
 <!--
 **vanvemden/vanvemden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
